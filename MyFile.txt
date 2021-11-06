@@ -1,0 +1,5 @@
+This is my new file fork from a git repo for testing purpose
+First i fork file
+then it comes to my personal repo
+then I clone to personal computer
+then Created MyFile text file
